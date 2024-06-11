@@ -15,6 +15,7 @@ public class Day1 {
 //        System.out.println(20+30);
         System.out.println(a+b);
         System.out.println(name);
+        
 
     }
 }
